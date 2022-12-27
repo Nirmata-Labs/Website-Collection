@@ -17,18 +17,29 @@ Good to know websites
 | Lumen5 | AI - Video | www.lumen5.com | Our online video creator makes it easy for anyone on your team to create engaging video content in minutes |
 | AxiomAI | Bot | www.axiom.ai |  Save time - use browser bots to automate website actions and repetitive tasks on any website or web app |
 | OpenAI | Bot | www.chat.openai.com |  Advanced ChatBot  |
+| ClipChamp | Editor | www.clipchamp.com | Use Clipchamp’s free video editor to create beautiful videos today |
 | PhotoPEA | Editor | www.photopea.com | Photoshop Alternative |
+| Unscreen | Editor | www.unscreen.com | Remove Video Background |
+| CapitolTrades | Financial | www.capitoltrades.com | What are the trades of the politicians |
 | Alison | Online Courses | www.alison.com | Free Online Courses With Certificates & Diplomas |
 | Acad. Hubspot | Online Courses | www.academy.hubspot.com | From quick, practical courses to comprehensive certifications, learn everything you need |
 | AWS Skill | Online Courses | www.explore.skillbuilder.aws/learn | AWS Skill Builder - Your learning center to build in-demand cloud skills |
+| EDX | Online Courses | www.edx.org | Start learning from the world’s best institutions |
 | Meta Bluep. | Online Courses | www.facebookblueprint.com | Meta digital marketing course |
+| CallTrackingMetrics | Sales | www.calltrackingmetrics.com | Track and attribute every online and offline lead on your page to exactly which campaign is driving it |
+| GetChipBot | Sales | www.getchipbot.com | Add explaining videos on your webiste to increase sales  |
+| JotForm | Sales | ww.jotform.com | Create professional-looking forms with no coding using Jotform’s online Form Builder  |
 | Simply Trends | Sales | www.simplytrends.co | Find, analyze, and track any Shopify website - revenue, sales, ads, traffic, apps, products, and much more |
+| Stan.store | Sales | www.stan.store | Monetyze your social media |
 | DotComKings | Side gigs | www.dotcomkings.com   | Free resources to find gigs, side hustles, and platforms that can help you start a small business |
 | GumRoad | Side gigs | www.gumroad.com   | With Gumroad, anyone can earn their first dollar online. Just start with what you know, see what sticks, and get paid. It’s that easy |
+| MoneyPantry | Side gigs | www.moneypantry.com | MoneyPantry is a personal finance blog with a focus on helping you earn & save more money |
 | VolleyApp | Side gigs | www.volleyapp.com | Create revenue-generating experiences powered by your expertise in minutes |
 | Black Magic App | Software| www.blackmagicdesign.com | Video Editing App for iPad |
 | SigmaOS | Software | www.sigmaos.com  | Meet the first browser that organizes your work. One window. Many workspaces. All your tabs |
+| Cheatography | Templates | www.cheatography.com |Over 5,000 Free Cheat Sheets, Revision Aids and Quick References |
 | PowerPointHub | Templates | www.powerpointhub.com | Welcome to PowerPointHub, Download Free PowerPoint Templates |
+| 12ft.io | Webtools | www.12ft.io | Paywall Remover |
 | Alternative.Me | Webtools | www.alternative.me | Find Better Software Alternatives |
 | AnswerSocrates | Webtools | www.answersocrates.com | iscover the questions people are asking on Google about almost any topic, for free |
 | Descript | Webtools | www.descript.com | All-in-one video & audio editing, as easy as a doc |
@@ -36,12 +47,14 @@ Good to know websites
 | GetHuman | Webtools | www.gethuman.com | Get a rep on the phone faster & get better help |
 | Hunter.io | Webtool | www.hunter.io | Hunter lets you find professional email addresses in seconds and connect with the people that matter for your business |
 | ILovePDF | Webtool | www.ilovepdf.com | Online-Tools for PDF-Lover. Create, Edit, Merge PDFs |
+| Instructables | Webtool | www.instructables.com | DIY Instructables |
 | OSAlternatives | Webtools | www.opensourcealternative.to | Discover 400+ popular open source alternatives to your proprietary SaaS |
 | Promo | Webtools | www.promo.com | Resize Media for every plattform |
 | Ranked.ai | Webtools | www.ranked.ai | Search Enging Optimazation - Weekly Content, On-Page Optimization, Backlinks & SEO Software |
 | ScribeHow | Webtools | www.scribehow.com | Turn any process into a step-by-step guide, instantly |
 | Send Anywhere | Webtool | www.send-anywhere.com | Send large files |
 | Swipefile | Webtools | www.swipefile.com | A “Swipe File” is a place where you store a bunch of inspiration for your marketing |
+| Symbolab | Webtools | www.symbolab.com | Symbolab is an advanced math education tool |
 | TinyWow | Webtools | www.tinywow.com | We offer PDF, video, image and other online tools to make your life easier |
 | Webnode | Webtools | www.webnode.com | You can create a unique website with Webnode in a few minutes |
 | WolframAlpha | Webtools | www.wolframalpha.com | Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase and AI technology |
