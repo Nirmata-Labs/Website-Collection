@@ -5,7 +5,7 @@ Good to know websites
 | ------------- | ------------- | ------------- |
 | AI - Content | www.copy.ai | Create a beautiful resume quickly with the help of artificial intelligence and our customizable templates |
 | AI - Content | www.kapwing.com | Join over 10 million modern creators who trust Kapwing to create, edit, and grow their content on every channel |
-| AI - Content | www.wordai.com | Use artificial intelligence to create more high-quality content that Google and readers will love |
+| AI - Content | www.wordai.com | Use artificial intelligence to create and rewrite content |
 | AI - Excel | www.excelformulabot.com | Transform your text instructions into Excel formulas in seconds with the help of AI for free |
 | AI - Presentation | www.beautiful.ai | The first presentation maker that is an expert deck designer, so you don't have to be |
 | AI - Resume | www.kickresume.com | Create a beautiful resume quickly with the help of artificial intelligence and our customizable templates |
