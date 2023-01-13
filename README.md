@@ -17,6 +17,7 @@ Good to know websites
 | Lumen5 | AI - Video | www.lumen5.com | Our online video creator makes it easy for anyone on your team to create engaging video content in minutes |
 | AxiomAI | Bot | www.axiom.ai |  Save time - use browser bots to automate website actions and repetitive tasks on any website or web app |
 | OpenAI | Bot | www.chat.openai.com |  Advanced ChatBot  |
+| Tailwind | CSS | www.tailwindcss.com |  Low Code CSS   |
 | ClipChamp | Editor | www.clipchamp.com | Use Clipchamp’s free video editor to create beautiful videos today |
 | PhotoPEA | Editor | www.photopea.com | Photoshop Alternative |
 | Unscreen | Editor | www.unscreen.com | Remove Video Background |
